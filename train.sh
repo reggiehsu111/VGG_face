@@ -1,0 +1,1 @@
+python train_mnist.py hw2-4_data/problem1 fully

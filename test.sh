@@ -1,0 +1,1 @@
+ python test_mnist.py hw2-4_data/problem1/test_examples/ conv results/test.csv
